@@ -1,0 +1,29 @@
+*{
+	color:#c6c6c6;
+	font-family: serif;
+}
+.b{
+	border-radius:10px;
+	background-color:rgba(0, 2, 0, 0.7);
+	border:0px solid black;
+	padding:30px;
+	margin-top:50px;
+
+	
+	-webkit-box-shadow: 3px 5px 38px -2px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 5px 38px -2px rgba(0,0,0,0.75);
+	box-shadow: 3px 5px 38px -2px rgba(0,0,0,0.75);
+	
+}
+.a{
+	background: url('../images/streetred.jpg')no-repeat;
+	-webkit-background-size:cover;
+	background-position:center center;
+	width:100%;
+	height:100vh;
+	
+}
+h5{
+
+	letter-spacing: 1px;
+}
