@@ -19,12 +19,12 @@ Son objectif principal est le développement d’un système qui permet le contr
 
 ## Pour commencer
 
-Tout d'abord ,Essayez d'installer tous les logiciels ou les bibliothèques nécessaires
+Tout d'abord ,Essayez d'installer tous les logiciels ou les bibliothèques nécessaires .
 
 ### Pré-requis
 Assurez-vous que vous avez installé toutes les conditions préalables suivantes sur votre machine de développement:
 
-+ L'installation qui fait l'objet de ce tutoriel est réalisée sur un système Windows 10 Pro 64 bits.
++ L'installation qui fait l'objet de ce projet est réalisée sur un système Windows 10 Pro 64 bits.
 + Téléchargez et installez l'environnement de travail :
 	+  Anaconda3                  
 	+  python 3.6.10/OpenCV 4.1.1
