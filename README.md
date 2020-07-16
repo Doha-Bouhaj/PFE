@@ -4,15 +4,15 @@ Son objectif principal est le développement d’un système qui permet le contr
 <div>
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/z.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/x.PNG" width="250" height="170" />
+<img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/a.PNG" width="250" height="170" />
 </div>
 <div>
-<img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/a.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/a1.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/b.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/b1.PNG" width="250" height="170" />
-<img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/c.PNG" width="250" height="170" />
 </div>
 <div>
+<img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/c.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/d.PNG" width="250" height="170" />
 <img src="https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/e.PNG" width="250" height="170" />
 </div>
