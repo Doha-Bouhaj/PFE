@@ -39,8 +39,8 @@ Assurez-vous que vous avez installé toutes les conditions préalables suivantes
 Voici les références pour vous aider à installer l'environnement de travail :
 
 + Anaconda3						[download](https://download.cnet.com/Anaconda/2500-2649_4-10788051.html) | [install](https://www.datacamp.com/community/tutorials/installing-anaconda-windows?utm_source=adwords_ppc&utm_campaignid=10267161064&utm_adgroupid=102842301792&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=dsa-429602503980&utm_loc_interest_ms=&utm_loc_physical_ms=1009974&gclid=Cj0KCQjw9b_4BRCMARIsADMUIyr2wrszcN2hYGYyme1K4BOONVsusKkLBsWQ3tgPcerzuoutjBBa6gQaAh2fEALw_wcB)
-+ python 3.6.10/OpenCV 4.1.1	[download](https://download.cnet.com/Python/2500-2069_4-10080057.html) | [install]()
-+ Wampserver 3.1.9				[download](https://download.cnet.com/WampServer/2500-10248_4-10797035.html) | [install OpenCv](https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html) | [install python 3.6.10](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html)
++ python 3.6.10/OpenCV 4.1.1	[download](https://download.cnet.com/Python/2500-2069_4-10080057.html) |  [install OpenCv](https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html) | [install python 3.6.10](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html)
++ Wampserver 3.1.9				[download](https://download.cnet.com/WampServer/2500-10248_4-10797035.html) | [install](https://www.wampserver.com/)
 + Arduino Ide 1.8.13			[download](https://www.arduino.cc/en/Main/Donate) | [install](https://www.arduino.cc/en/main/software)
 + proteus 8 professional		[download](https://proteus.fr.malavida.com/#gref) | [install](https://www.theengineeringprojects.com/2016/05/install-download-proteus-software.html)
 + Sublime Text V3				[download](https://www.sublimetext.com/3) | [install](https://www.tutorialspoint.com/sublime_text/sublime_text_installation.htm)
@@ -49,11 +49,12 @@ Voici les références pour vous aider à installer l'environnement de travail :
 
 On a préparé le terrain jusqu'ici, maintenant procédez comme suit :
 
-+ exécuter le fichier [Test.py](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/Test.py)
-+ importer les 4 fichiers qui donnent le code python dans la carte sd
-+ compiler le code arduino qui existe dans le fichier [python.ino](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/python.ino)
-+ lancer la simulation avec proteus, le nom du fichier est [traffic.pdsprj](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/traffic.pdsprj)
++ Exécuter le fichier [Test.py](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/Test.py)
++ Importer les 4 fichiers qui donnent le code python dans la carte sd
++ Compiler le code arduino qui existe dans le fichier [python.ino](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/python.ino)
++ Lancer la simulation avec proteus, le nom du fichier est [traffic.pdsprj](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/python/traffic.pdsprj)
 + Créer une nouvelle base de données appelée projet .Puis, exécuter [ce script](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/script/script.sql) SQL sur le serveur "MySQL".
++ Pour le site Web, ouvrez un navigateur et lancez le fichier : [" index.php "](https://github.com/Doha-Bouhaj/PFE/blob/master/Feu%20Tricolore%20Intelligent/projet/index.php)
 
 
 ## languages et FrameWorks
